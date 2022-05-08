@@ -1,6 +1,6 @@
 {
 	"name": "mentorship",
-	"homepage": "/mentorship",
+	"homepage": "/kodecamp-mentorship",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
