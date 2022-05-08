@@ -1,6 +1,6 @@
 {
 	"name": "mentorship",
-	"homepage": "https://eunit99.github.io/mentorship",
+	"homepage": "https://eunit99.github.io/kodecamp-mentorship",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
